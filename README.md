@@ -2,7 +2,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Hi, I'm Pruthvi 👋<br><br>Software Developer | Python | React | Machine Learning<br><br>🎓 BE CSE Graduate (2026)<br>💻 Building software and AI-powered applications<br>📚 Currently learning DSA, System Design, and ML<br>🚀 Open to Software Developer / SDE opportunities<br><br>⚡ Fun Fact:<br>When I'm not coding, you'll find me leading treks, exploring mountains, and creating cinematic travel content.</h2>
+<h3 data-importer="text" align="left">Hi, I'm Pruthvi 👋<br><br>Software Developer | Python | React | Machine Learning<br><br>🎓 BE CSE Graduate (2026)<br>💻 Building software and AI-powered applications<br>📚 Currently learning DSA, System Design, and ML<br>🚀 Open to Software Developer / SDE opportunities<br><br>⚡ Fun Fact:<br>When I'm not coding, you'll find me leading treks, exploring mountains, and creating cinematic travel content.</h3>
 
 ###
 
@@ -61,11 +61,11 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pruthvi1755/Pruthvi1755/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pruthvi1755/Pruthvi1755/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pruthvi1755/Pruthvi1755/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
