@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Hi, I'm Pruthvi 👋<br><br>Software Developer | Python | React | Machine Learning<br><br>🎓 BE CSE Graduate (2026)<br>💻 Building software and AI-powered applications<br>📚 Currently learning DSA, System Design, and ML<br>🚀 Open to Software Developer / SDE opportunities<br><br>⚡ Fun Fact:<br>When I'm not coding, you'll find me leading treks, exploring mountains, and creating cinematic travel content.</h3>
+<h3 data-importer="text" align="left">Hi, I'm Pruthvi <br><br>Software Developer | Python | React | Machine Learning<br><br>🎓 BE CSE Graduate (2026)<br>💻 Building software and AI-powered applications<br>📚 Currently learning DSA, System Design, and ML<br>🚀 Open to Software Developer / SDE opportunities<br><br>⚡ Fun Fact:<br>When I'm not coding, you'll find me leading treks, exploring mountains, and creating cinematic travel content.</h3>
 
 ###
 
